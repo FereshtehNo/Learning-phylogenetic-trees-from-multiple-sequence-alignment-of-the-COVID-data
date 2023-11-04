@@ -15,6 +15,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="logo.PNG" alt="Alt text">
+</div>
+
 
 
 <!-- TABLE OF CONTENTS -->
