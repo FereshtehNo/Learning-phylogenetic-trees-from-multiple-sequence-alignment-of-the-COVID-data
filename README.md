@@ -1,13 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">Learning phylogenetic trees from multiple sequence alignment of the COVID data </h3>
+<h3 align="center">Learning phylogenetic trees from multiple sequence alignment of the COVID data 🌳</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -18,8 +16,6 @@
 <div align="center">
   <img src="LOGO.PNG" alt="Alt text">
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -43,37 +39,32 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
-## ROADMAP
+## ROADMAP 🗺️
 
-The objective of this project is to investigate the evolutionary history of a virus strain by performing a phylogenetic analysis. To accomplish this, you will use the "MAFFT" and "RAxML-NG" tools to estimate the topology and parameters of the phylogenetic tree using the FASTA file data of Omicron, Delta, or Alpha strain genomes. 
+The objective of this project is to investigate the evolutionary history of a virus strain by performing a phylogenetic analysis. To accomplish this, you will use the "MAFFT" and "RAxML-NG" tools to estimate the topology and parameters of the phylogenetic tree using the FASTA file data of Omicron, Delta, or Alpha strain genomes.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Languages Used
+## Languages Used 💻
 
  R Packages 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments 🙌
 
 Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
